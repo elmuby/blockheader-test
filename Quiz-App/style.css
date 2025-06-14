@@ -4,6 +4,12 @@ body {
   padding: 2rem;
 }
 
+.hero {
+  text-align: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
 .quiz-container {
   background: #fff;
   max-width: 500px;
