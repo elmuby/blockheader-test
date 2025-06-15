@@ -40,4 +40,4 @@ A simple multiple-choice quiz application built using vanilla JavaScript.
 
 ## 🌐 Live Demo
 
-[Live Link (Vercel)](https://your-vercel-link-for-question-b.vercel.app/)
+[Live Link (Vercel)](https://quiz-app-git-main-mubaraks-projects-c6d15c86.vercel.app)

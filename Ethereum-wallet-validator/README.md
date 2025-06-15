@@ -34,4 +34,4 @@ This is a simple web app that checks list of Ethereum wallet addresses to see if
 
 ## 🌐 Live Demo
 
-[Live Link (Vercel)](/)
+[Live Link (Vercel)](https://blockheader-test-l4j1276yg-mubaraks-projects-c6d15c86.vercel.app/)
